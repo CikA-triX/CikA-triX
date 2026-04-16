@@ -47,7 +47,10 @@ Each lab includes:
 
 ---
 
-> “Learning cybersecurity one packet at a time.”
+## ⚡ Fun Fact
+I build as **cikatrix** 👾
+
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 
 <!--
 **CikA-triX/CikA-triX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
