@@ -48,7 +48,7 @@ Each lab includes:
 ---
 
 ## ⚡ Fun Fact
-I build as **cikatrix** 👾
+I build as **CikA-triX** 👾
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 
