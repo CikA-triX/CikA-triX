@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-I am currently completing the TechCrush Cybersecurity Bootcamp — a 12 week intensive program focused on building job-ready skills for an entry-level SOC Analyst role.
+I am currently completing the TechCrush Cybersecurity Bootcamp - a 12 week intensive program focused on building job-ready skills for an entry-level SOC Analyst role.
 
 I actively document my learning journey in public through labs, notes, and security observations.
 
