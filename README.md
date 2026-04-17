@@ -21,7 +21,7 @@ I actively document my learning journey in public through labs, notes, and secur
 ---
 
 ## 🛠️ Tools I Have Used
-Wireshark | Nmap | Kali Linux | Ubuntu | Windows 11 | PowerShell  
+Wireshark | Nmap | Kali Linux | Windows 11 | PowerShell  
 7-Zip | Gpg4win | HashCalc | UFW | Windows Defender Firewall
 
 ---
