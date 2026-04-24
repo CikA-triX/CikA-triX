@@ -16,7 +16,7 @@ I will be actively documenting my learning journey in public through labs, notes
 - Traffic Analysis with Wireshark
 - Network Scanning with nmap
 - Encryption & Hashing fundamentals
-- Linux (Kali & Ubuntu)
+- Linux (Kali)
 
 ---
 
