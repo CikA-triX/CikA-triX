@@ -30,12 +30,12 @@ Wireshark | Nmap | Kali Linux | Windows 11 | PowerShell
 I am building a structured home lab covering every topic in my bootcamp.
 
 Each lab includes:
-- Objective
+- Goal
 - Tools used
-- Steps taken
-- Observations
-- Sanitised screenshots
-- Key findings
+- What i did 
+- What i saw
+- What this means in real life 
+- Evidence 
 
 > 📁 Repository: cybersecurity-home-lab
 
