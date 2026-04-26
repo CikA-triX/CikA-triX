@@ -3,14 +3,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 I am currently completing the TechCrush Cybersecurity Bootcamp - a 12 week intensive program focused on building job-ready skills for an entry-level SOC Analyst role.
 
 I will be actively documenting my learning journey in public through labs, notes, and security observations.
 
 ---
 
-## 🎯 What I Am Currently Learning
+## What I Am Currently Learning
 - Network Security (Firewalls, IDS/IPS, DMZ, Network Segmentation)
 - Windows Security (UAC, Windows Defender, Patch Management)
 - Traffic Analysis with Wireshark
@@ -20,13 +20,13 @@ I will be actively documenting my learning journey in public through labs, notes
 
 ---
 
-## 🛠️ Tools I Have Used
+## Tools I Have Used
 Wireshark | Nmap | Kali Linux | Windows 11 | PowerShell  
 7-Zip | Gpg4win | HashCalc | UFW | Windows Defender Firewall
 
 ---
 
-## 🧪 Home Lab (Cybersecurity Practice Environment)
+## Home Lab (Cybersecurity Practice Environment)
 I am building a structured home lab covering every topic in my bootcamp.
 
 Each lab includes:
@@ -41,13 +41,13 @@ Each lab includes:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 - LinkedIn: https://linkedin.com/in/toluakinyele  
 - X (Twitter): https://x.com/cika_trix
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 I build as **CikA-triX** 👾
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
