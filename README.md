@@ -1,4 +1,4 @@
-# Hi, I am Tolu Akinyele 👾
+# Hi, I am Tolu Akinyele
 **Aspiring SOC Analyst | Cybersecurity Student | TechCrush Bootcamp 2026**
 
 ---
