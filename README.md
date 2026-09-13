@@ -37,7 +37,7 @@ Each lab includes:
 - What this means in real life 
 - Evidence 
 
-> 📁 Repository: cybersecurity-home-lab
+> 📁 Repository: [cybersecurity-home-lab](https://github.com/CikA-triX/cybersecurity-home-lab)
 
 ---
 
