@@ -20,12 +20,12 @@ Currently working through:
 - Traffic analysis (Wireshark)
 - Phishing & email header analysis
 - Threat intelligence & IOC lookups (VirusTotal, AbuseIPDB, Cisco Talos, ThreatFox)
-- SIEM & log-based incident detection (Windows Event Viewer, Security log analysis)
+- SIEM & log-based incident detection (Splunk, Windows Event Viewer)
 - Network security fundamentals (firewalls, VirtualBox lab networking)
 
 ## Tools I Have Used
 
-Kali Linux | VirtualBox | Wireshark | Nmap/Zenmap | John the Ripper | Hydra | VirusTotal | AbuseIPDB | Cisco Talos | Windows Event Viewer (SIEM-style log analysis) | Windows 11 | PowerShell
+Kali Linux | VirtualBox | Wireshark | Nmap/Zenmap | John the Ripper | Hydra | VirusTotal | AbuseIPDB | Cisco Talos | Splunk | Windows Event Viewer | Windows 11 | PowerShell
 
 ## Home Lab (Cybersecurity Practice Environment)
 
