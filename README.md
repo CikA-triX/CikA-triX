@@ -1,68 +1,51 @@
 # Hi, I am Tolu Akinyele
-**Aspiring SOC Analyst | Cybersecurity Student | TechCrush Bootcamp 2026**
 
----
+Aspiring SOC Analyst | Cybersecurity Practitioner
 
 ## About Me
-I am currently completing the TechCrush Cybersecurity Bootcamp - a 12 week intensive program focused on building job-ready skills for an entry-level SOC Analyst role.
 
-I will be actively documenting my learning journey in public through labs, notes, and security observations.
+I'm building job-ready skills for an entry-level SOC Analyst role through hands-on labs and project-based internships. I document my learning in public through writeups, screenshots, and security observations.
 
----
+**Background:** TechCrush Cybersecurity Bootcamp, Cohort 6 (completed)
+
+Currently working through:
+- **Networkwalks Cybersecurity Internship** (Batch B084) - offensive track: lab setup, footprinting & reconnaissance, network scanning, password security testing
+- **TechBiz Academy SOC Analyst Internship** - defensive track: traffic analysis, phishing investigation, threat intelligence, SIEM/log-based incident detection
 
 ## What I Am Currently Learning
-- Network Security (Firewalls, IDS/IPS, DMZ, Network Segmentation)
-- Windows Security (UAC, Windows Defender, Patch Management)
-- Traffic Analysis with Wireshark
-- Network Scanning with nmap
-- Encryption & Hashing fundamentals
-- Linux (Kali)
 
----
+- Reconnaissance & footprinting (whois, whatweb, dnsrecon, wafw00f)
+- Network scanning (Nmap, Zenmap)
+- Password security testing (John the Ripper, Hydra)
+- Traffic analysis (Wireshark)
+- Phishing & email header analysis
+- Threat intelligence & IOC lookups (VirusTotal, AbuseIPDB, Cisco Talos, ThreatFox)
+- SIEM & log-based incident detection (Windows Event Viewer, Security log analysis)
+- Network security fundamentals (firewalls, VirtualBox lab networking)
 
 ## Tools I Have Used
-Wireshark | Nmap | Kali Linux | Windows 11 | PowerShell  
-7-Zip | Gpg4win | HashCalc | UFW | Windows Defender Firewall
 
----
+Kali Linux | VirtualBox | Wireshark | Nmap/Zenmap | John the Ripper | Hydra | VirusTotal | AbuseIPDB | Cisco Talos | Windows Event Viewer (SIEM-style log analysis) | Windows 11 | PowerShell
 
 ## Home Lab (Cybersecurity Practice Environment)
-I am building a structured home lab covering every topic in my bootcamp.
+
+I maintain a structured home lab covering topics as I learn them.
 
 Each lab includes:
 - Goal
 - Tools used
-- What i did 
-- What i saw
-- What this means in real life 
-- Evidence 
+- What I did
+- What I saw
+- What this means in real life
+- Evidence
 
-> 📁 Repository: [cybersecurity-home-lab](https://github.com/CikA-triX/cybersecurity-home-lab)
-
----
+📌 Repository: [cybersecurity-home-lab](https://github.com/CikA-triX/cybersecurity-home-lab)
 
 ## Connect With Me
-- LinkedIn: https://linkedin.com/in/toluakinyele  
+
+- LinkedIn: https://linkedin.com/in/toluakinyele
 - X (Twitter): https://x.com/cika_trix
 
----
-
 ## Fun Fact
-I build as **CikA-triX** 👾
 
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-
-<!--
-**CikA-triX/CikA-triX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build as CikA-triX 🪄
